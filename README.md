@@ -27,7 +27,7 @@ ATHENA はデスクトップ向けのアプリケーションです。下記の�
 ---
 
 
-## 🍎実行ファイルのダウンロード（Mao）
+## 🍎実行ファイルのダウンロード（Mac）
 
 ### Mac(Intel/AMD版)
 [ATHENAapp-darwin-amd64.zip](https://github.com/FukumotoIkuma/AthenaIVC-release/releases/latest/download/ATHENAapp-darwin-amd64.zip)
