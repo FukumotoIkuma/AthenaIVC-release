@@ -9,14 +9,16 @@ ATHENA はデスクトップ向けのアプリケーションです。下記の�
 
 ###  Windows (Intel/AMD版)
 
-🔗 [ATHENAapp-amd64-installer.exe](https://github.com/FukumotoIkuma/AthenaIVC-release/releases/latest/download/ATHENAapp-amd64-installer.exe)
+🔗 [ATHENAapp-amd64-installer.exe](https://github.com/FukumotoIkuma/AthenaIVC-release/releases/latest/download/ATHENAapp-windows-amd64.exe
+)
 
 ---
 
 ###  Windows (ARM64版)
 
 
-🔗 [ATHENAapp-arm64-installer.exe](https://github.com/FukumotoIkuma/AthenaIVC-release/releases/latest/download/ATHENAapp-arm64-installer.exe)
+🔗 [ATHENAapp-arm64-installer.exe](https://github.com/FukumotoIkuma/AthenaIVC-release/releases/latest/download/ATHENAapp-windows-arm64.exe
+)
 
 ---
 
