@@ -42,7 +42,7 @@ ATHENA はデスクトップ向けのアプリケーションです。下記の�
 その場合は以下のコマンドを実行することで、手動でアプリを認証してください。
 
 ```bash
-cd path_to_ATHENAapp.app_directory
+cd {path_to_ATHENAapp.app}/{ATHENAapp.app}
 xattr -dr com.apple.quarantine ATHENAapp.app
 ```
 
